@@ -1,4 +1,4 @@
-## This is a private project built specifically for assisting pre-sales and solutioning  teams to craft curated and contextualized response to the RFI/RFP/RFQ, For more details contact through Linkedin -https://www.linkedin.com/in/debasis07/ 
+## This is a private project built specifically for assisting pre-sales and solutioning  teams to craft curated and contextualized response to the RFI/RFP/RFQ, For more details contact through Linkedin - [Debasis Mohanty](https://www.linkedin.com/in/debasis07/ )
 
 # RFP Copilot Web App
 
