@@ -5,7 +5,12 @@
 An AI-augmented enterprise web application that assists proposal teams in generating structured, context-aware RFP responses using a **multi-agent AI pipeline**, intelligent caching, organizational memory, and a human-in-the-loop review workflow.
 
 ---
+![Alt text](./Images/image1.png)
+![Alt text](./Images/image-2.png)
+![Alt text](./Images/image-3.png)
+![Alt text](./Images/image-4.png)
 
+---
 ## Project Summary
 
 RFP Copilot transforms how organizations respond to Requests for Proposal. Instead of a single LLM call, it orchestrates four specialized AI agents — Planner, Researcher, Writer, and Critic — each with a dedicated role and system prompt. The Researcher agent searches both your company knowledge base and a growing organizational memory of past approved responses, so the system gets smarter with every approval. Every response goes through a quality gate (Critic scores 1–10) and a human review workflow before being finalized, with approved responses automatically written back to cache and memory for future reuse.
