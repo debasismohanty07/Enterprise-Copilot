@@ -9,6 +9,7 @@ An AI-augmented enterprise web application that assists proposal teams in genera
 ![Alt text](./Images/image-2.png)
 ![Alt text](./Images/image-3.png)
 ![Alt text](./Images/image-4.png)
+![Alt text](./Images/image-5.png)
 
 ---
 ## Project Summary
